@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj": {}
+    "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj": {
+    "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\Nathan Hanne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\obj\\",
+        "outputPath": "c:\\Users\\Nathan Hanne\\OneDrive\\Desktop\\Repos\\JubJUbEH\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nathan Hanne\\AppData\\Roaming\\NuGet\\NuGet.Config",
